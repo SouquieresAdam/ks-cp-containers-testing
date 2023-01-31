@@ -1,10 +1,6 @@
-
 .idea/
-
 target/
-
 *.iml
-
 *.log
-
 *.bkp
+.DS_Store
