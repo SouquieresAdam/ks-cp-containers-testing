@@ -174,11 +174,8 @@
         <dependency>
             <groupId>com.github.christophschubert</groupId>
             <artifactId>cp-testcontainers</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>0.2.1</version>
             <scope>test</scope>
         </dependency>
-
-
-
     </dependencies>
 </project>
